@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\bin\Debug\netcoreapp3.1\WardRobePicker.exe
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\bin\Debug\netcoreapp3.1\WardRobePicker.deps.json
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\bin\Debug\netcoreapp3.1\WardRobePicker.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\bin\Debug\netcoreapp3.1\WardRobePicker.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\bin\Debug\netcoreapp3.1\WardRobePicker.dll
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\bin\Debug\netcoreapp3.1\WardRobePicker.pdb
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.dll
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.pdb
+C:\Users\opilane\source\repos\Week6Arrays\WardRobePicker\obj\Debug\netcoreapp3.1\WardRobePicker.genruntimeconfig.cache
